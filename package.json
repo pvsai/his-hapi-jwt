@@ -1,0 +1,31 @@
+{
+  "name": "his-hapi-jwt",
+  "version": "1.0.0",
+  "description": "His hapijs demo with JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramana",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvsai/his-hapi-jwt.git"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/bell": "10.1.0",
+    "@hapi/boom": "7.4.2",
+    "@hapi/hoek": "8.2.0",
+    "@hapi/joi": "15.1.0",
+    "@hapi/bounce": "1.3.1",
+    "@hapi/cookie": "10.1.0",
+    "@hapi/topo": "3.1.3",
+    "@hapi/basic": "5.1.0",
+    "google-auth-library": "5.2.0",
+    "hapi-auth-jwt2": "8.6.1",
+    "hapi-auth-jwt-request": "1.0.1",
+    "hapi-auth-bearer-token": "6.2.1",
+    "hapi-auth-jwt2-payload": "0.0.5"
+  }
+}
