@@ -13,7 +13,7 @@ WORKDIR /usr/src/app
 RUN node --version
 # Install the express generator which gives you also scaffolding tools.
 RUN npm install
-RUN npm audit fix
+#RUN npm audit fix
 # Expose the node.js port to the Docker host.
 EXPOSE 3000
 
