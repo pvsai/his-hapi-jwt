@@ -13,7 +13,7 @@
     "url": "git://github.com/pvsai/his-hapi-jwt.git"
   },
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "@hapi/bell": "10.1.0",
     "@hapi/boom": "7.4.2",
     "@hapi/hoek": "8.2.0",
